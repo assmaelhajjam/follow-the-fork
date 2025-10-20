@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Rempalcer MONCOMPTE par votre compte github
+git config user.email "MONCOMPTE@users.noreply.github.com"
+git config user.name MONCOMPTE
